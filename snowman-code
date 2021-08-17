@@ -1,0 +1,21 @@
+//base
+ellipse(200,320,150,150);
+
+//middle body
+ellipse(200,187,120,120);
+
+//head
+ellipse(200,77,100,100);
+
+//eyes 
+fill(15, 8, 8);
+ellipse(217,65,10,10);
+
+ellipse(183,65,10,10);
+
+//arms
+line(307,222,250,150);
+line(152,152,90,220);
+//carrot nose
+fill(240, 181, 31);
+triangle(194,79,146,122,211,90);
